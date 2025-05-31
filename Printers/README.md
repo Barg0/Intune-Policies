@@ -1,4 +1,4 @@
-# Intune Policy – Secure Point and Print Configuration
+# Print Server - Restrictions
 
 This configuration profile is designed to manage **Point and Print Restrictions** via **Administrative Templates** in Microsoft Intune. It enhances printer security by allowing only approved servers and suppressing prompts during driver installation and updates.
 
